@@ -1,0 +1,43 @@
+*{
+  text-decoration: none;
+  maargin: 0px;
+  padding: 0px;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Open Sans',sans-serif;
+}
+
+
+.wrapper{
+  width: 1100px;
+  margin: auto;
+  position: relativve;
+}
+
+.logo{
+  font-size: 800px;
+  font-weight: bold;
+  float: left;
+  font-family: courier;
+  color: #364f6b;
+}
+.menu{
+  float: right;
+}
+nav {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  line-height: 80px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background: #FFFFFFF;
+}
+
+  
+
+  
