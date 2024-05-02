@@ -17,9 +17,9 @@ body{
   position: relativve;
 }
 
-.logo{
-  font-size: 800px;
-  font-weight: bold;
+.logo A{
+  font-size: 50px;
+  font-weight: 800;
   float: left;
   font-family: courier;
   color: #364f6b;
