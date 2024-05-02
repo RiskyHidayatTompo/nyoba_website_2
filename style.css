@@ -17,7 +17,7 @@ body{
   position: relativve;
 }
 
-.logo A{
+.logo a{
   font-size: 50px;
   font-weight: 800;
   float: left;
